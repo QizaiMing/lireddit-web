@@ -1,4 +1,8 @@
-# Tech Stack
+# Lireddit UI
+
+server code can be found <a href="https://github.com/QizaiMing/lireddit-server">here</a>
+
+## Tech Stack
 
 React<br />
 Typescript<br />
